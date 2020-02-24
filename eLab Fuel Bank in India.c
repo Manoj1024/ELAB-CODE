@@ -1,8 +1,9 @@
 #include <stdio.h>
-int main() {
+int main() 
+{
   float a,canli;
   scanf("%f",&a);
   canli=282.48/a;
   printf("%.2f",canli);
-	return 0;
+  return 0;
 }
