@@ -1,16 +1,9 @@
 #include<stdio.h>
-
-int main(){
-
+int main()
+{
 int one, two;
-
 scanf("%d",&one);
-
-
 scanf("%d",&two);
-
 printf("The Subtraction of two number is:%d",one-two);
-
   return 0;
-
 }
