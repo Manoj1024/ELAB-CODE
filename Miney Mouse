@@ -1,0 +1,23 @@
+#include <stdio.h>
+
+int main()
+
+{
+
+  int a;
+
+  scanf("%d",&a);
+
+  if(a==48 || a==40 || a==24 || a==8 || a==16 || a==32)
+
+    printf("This balloon can fly to miney");
+
+  else
+
+    printf("This balloon cannot fly to miney");
+
+  return 0;
+
+
+
+}
